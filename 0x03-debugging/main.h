@@ -1,4 +1,4 @@
-#ifndef MAIN_H
+#ifndef MAIN.H
 #define MAIN_H
 
 #include <stdio.h>
@@ -10,3 +10,4 @@ void print_remaining_days(int month, int day, int year);
 
 
 #endif
+
