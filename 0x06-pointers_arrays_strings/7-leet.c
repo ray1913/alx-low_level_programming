@@ -14,8 +14,6 @@ char *leet(char *s)
 
 	for (i = 0; *(s + i); i++)
 	{
-		for (i = 0; *(s + i); i++)
-		{
 			for (j = 0; j <= 9; j++)
 			{
 				if (a[j] == s[i])
@@ -25,4 +23,3 @@ char *leet(char *s)
 		return (s);
 }
 /* crack hard things */
-}
