@@ -1,1 +1,0 @@
-project arrays and pointers
